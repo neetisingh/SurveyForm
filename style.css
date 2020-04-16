@@ -4,9 +4,7 @@
   margin: 0;
   padding: 0;
 }
-html, html a {
-    -webkit-font-smoothing: antialiased !important;
-}
+
 
 body {
   display: flex;
